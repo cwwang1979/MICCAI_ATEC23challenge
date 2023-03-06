@@ -43,13 +43,12 @@ Attending Physician, Department of Pathology, Tri-Service General Hospital, Taip
 ## Challenge prizes
 Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. 
 
-A joint challenge paper will be prepared, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
+A joint challenge paper will be prepared and submitted to journals such as Medical Image Analysis or IEEE trans on Medical Imaging, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
 
-In addition, two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the TEOC challenge as follows:
+In addition, two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the TEOC challenge as follows. Top teams will be invited for paper submission to the arranged special issues.
+
 Special Issues for the TEOC challenge:
-
 1. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
-
 2. Diagnostics (JCR2021 IF= 3.992) "Special Issue "Deep Learning in Oncological Image Analysis"
 
 Prizes (in total 22000 CHF)
@@ -78,7 +77,7 @@ Prizes (in total 22000 CHF)
 - 22nd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
 - 23rd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
 
-The participating teams may publish their own results separately after the challenge paper is published, but they should cite the assigned papers listed bellows
+The participating teams may publish their own results separately after the challenge paper is published, but they should cite the assigned papers listed bellows.
 
 ## Assigned papers
 - Wang et al. (2022) Histopathological whole slide image dataset for classification of treatment effectiveness to ovarian cancer, Scientific Data, 9(25), 1-5
