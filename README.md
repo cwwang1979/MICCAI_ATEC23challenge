@@ -41,7 +41,11 @@ Director, Biobank, Tri-Service General Hospital and National Defense Medical Cen
 Attending Physician, Department of Pathology, Tri-Service General Hospital, Taipei, Taiwan.
 
 ## Challenge prizes
-Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. Two members from the top 10 participating teams from the leaderboards will be invited to contribute to the challenge paper manuscript publications to describe the challenge and the methods and qualified as co-authors. Two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the TEOC challenge as follows:
+Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. 
+
+A joint challenge paper will be prepared, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
+
+In addition, two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the TEOC challenge as follows:
 Special Issues for the TEOC challenge:
 
 1. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
@@ -50,8 +54,8 @@ Special Issues for the TEOC challenge:
 
 Prizes (in total 22000 CHF)
 
-- 1st place, 2900 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 2nd place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
+- 1st place, 2900 CHF (Swiss Francs) / 100% wavier Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
+- 2nd place, 1450 CHF (Swiss Francs) / 50% wavier Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
 - 3rd place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
 - 4th place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
 - 5th place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
