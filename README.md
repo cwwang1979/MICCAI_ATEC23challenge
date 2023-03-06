@@ -8,16 +8,16 @@ Ovarian cancer is the second most common cause of gynecologic cancer death in wo
 ## Date
 - Open registration : currently open
 - Training data release : available at [TCIA](https://doi.org/10.7937/tcia.985g-ey35).
-- Testing data release : will be available after the participant submits the Registration Form [form file](https://drive.google.com/file/d/1oi6QHxGAyfgwzjLcGHEcWnYXaAbKgLWT/view?usp=share_link).
+- Testing data release : will be available after the participant submits the [Registration Form](https://drive.google.com/file/d/1F12eY4J0AsBllzu3xMRqhXN7iopTymOf/view?usp=share_link).
 - Deadline for submission : July 30, 2023
-the files to submit include a treatment outcome prediction file in the csv format and a four-page paper about the methods in word or LaTex (template available at [template link](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions).
+the files to submit include a treatment outcome prediction file in the csv format and a four-page paper about the methods in word or LaTex (template available at the [link](https://drive.google.com/drive/folders/1fiAdITZqX1lpImrINIwDbs0EtzUfV6rN?usp=share_link)).
 
 ## Datasets
 ### Training Cohorts
 A large whole section whole slide image (WSI) dataset, contains 288 De-identified hematoxylin and eosin (H&E) stained whole section slides with clinical information of HGSOC patients collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. The large training dataset has been accepted to be stored on The Cancer Imaging Archive (TCIA) platform, and the dataset presented here is available at [training data link](https://doi.org/10.7937/tcia.985g-ey35).
 
 ### Testing Chohorts
-180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link will be released after the participant submit the Registration form available at [form file](https://drive.google.com/file/d/1oi6QHxGAyfgwzjLcGHEcWnYXaAbKgLWT/view?usp=share_link).
+180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link will be released after submitting the [Registration Form](https://drive.google.com/file/d/1F12eY4J0AsBllzu3xMRqhXN7iopTymOf/view?usp=share_link).
 
 ### Ethics approval
 For both training and testing datasets, ethical approvals have been obtained from the research ethics committee of the Tri-Service
@@ -77,7 +77,7 @@ Prizes (in total 22000 CHF)
 - 22nd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
 - 23rd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
 
-The participating teams may publish their own results separately after the challenge paper is published, but they should cite the assigned papers listed bellows.
+The participating teams may publish their own results separately after the challenge paper is published, **but they should cite the assigned papers listed bellows**.
 
 ## Assigned papers
 - Wang et al. (2022) Histopathological whole slide image dataset for classification of treatment effectiveness to ovarian cancer, Scientific Data, 9(25), 1-5
@@ -130,3 +130,10 @@ https://doi.org/10.1002/ctm2.1162
   publisher={Wiley-Blackwell}
 }
 ```
+
+## Contact
+Prof. Ching-Wei Wang  
+  
+cweiwang@mail.ntust.edu.tw; cwwang1979@gmail.com  
+  
+National Taiwan University of Science and Technology
