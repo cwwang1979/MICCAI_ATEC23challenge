@@ -133,7 +133,7 @@ Prizes (in total 22000 CHF)
 - 23rd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
 
 ## License
-This extension to the Caffe library is released under a creative commons license, which allows for personal and research use only. For a commercial license please contact Prof Ching-Wei Wang. You can view a license summary here:  
+The challenge materials are released under a creative commons license, which allows for personal and research use only. For a commercial license please contact Prof Ching-Wei Wang. You can view a license summary here:  
 http://creativecommons.org/licenses/by-nc/4.0/
 
 
