@@ -48,7 +48,7 @@ Director, Biobank, Tri-Service General Hospital and National Defense Medical Cen
 - Dr. Yi-Jia Lin
 Attending Physician, Department of Pathology, Tri-Service General Hospital, Taipei, Taiwan.
 
-## Challenge Prizes
+## Challenge Publication and Prizes
 Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. 
 
 A joint challenge paper will be prepared and submitted to journals such as Medical Image Analysis or IEEE trans on Medical Imaging, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
