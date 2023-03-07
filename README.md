@@ -10,7 +10,15 @@ Ovarian cancer is the second most common cause of gynecologic cancer death in wo
 - Training data release : available at [TCIA](https://doi.org/10.7937/tcia.985g-ey35) [1]
 - Testing data release : will be available after the participant submits the [Registration Form](https://drive.google.com/file/d/1JRhSJRtDTcubmxrBThubmivysYHmQxpr/view?usp=share_link).
 - Deadline for submission : August 30, 2023
-the files to submit include a treatment outcome prediction file in the csv format (example available in the [link](https://drive.google.com/file/d/1tVDbYDw1a7NQ_Uu5_DUl6dSmJcc2BOfh/view?usp=share_link)) and a four-page paper about the methods in word or LaTex (template available at the [link](https://drive.google.com/drive/folders/1fiAdITZqX1lpImrINIwDbs0EtzUfV6rN?usp=share_link)).
+the files to submit include a treatment outcome prediction file in the csv format (example shown in the figure bellow and the file is available in the [link](https://drive.google.com/file/d/1tVDbYDw1a7NQ_Uu5_DUl6dSmJcc2BOfh/view?usp=share_link)) and a four-page paper about the methods in word or LaTex (template available at the [link](https://drive.google.com/drive/folders/1fiAdITZqX1lpImrINIwDbs0EtzUfV6rN?usp=share_link)).
+
+| CoreID  | prediction (probability) | prediction(Binary [1:effective, 0: invalid] ) |
+| :---         |     :---:      |          ---: |
+| 0  | 0.75 | 1 |
+| 1  | 0.6 | 1 |
+| 2  | 0.25 | 0 |
+
+
 
 ## Datasets
 ### Training Cohorts
