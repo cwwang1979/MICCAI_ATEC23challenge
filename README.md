@@ -47,7 +47,7 @@ Associate Professor, College of Biochemistry, National Defense Medical Center, T
 Director, Biobank, Tri-Service General Hospital and National Defense Medical Center
 - Dr. Yi-Jia Lin
 Attending Physician, Department of Pathology, Tri-Service General Hospital, Taipei, Taiwan.
--Nabila Puspita Firdi, Graduate Institute of Biomedical Engineering
+- Nabila Puspita Firdi, Graduate Institute of Biomedical Engineering
 
 ## Challenge Publication and Prizes
 Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. 
