@@ -47,6 +47,7 @@ Associate Professor, College of Biochemistry, National Defense Medical Center, T
 Director, Biobank, Tri-Service General Hospital and National Defense Medical Center
 - Dr. Yi-Jia Lin
 Attending Physician, Department of Pathology, Tri-Service General Hospital, Taipei, Taiwan.
+-Nabila Puspita Firdi, Graduate Institute of Biomedical Engineering
 
 ## Challenge Publication and Prizes
 Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. 
@@ -148,7 +149,8 @@ http://creativecommons.org/licenses/by-nc/4.0/
 ## Contact
 Prof. Ching-Wei Wang  
   
-cweiwang@mail.ntust.edu.tw; cwwang1979@gmail.com  
+cweiwang@mail.ntust.edu.tw; cwwang1979@gmail.com 
+m11023802@mail.ntust.edu.tw; nabilapuspita.firdi@gmail.com
   
 National Taiwan University of Science and Technology
 
