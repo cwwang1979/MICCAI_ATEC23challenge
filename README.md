@@ -1,4 +1,4 @@
-# MICCAI23_TEOCchallenge
+# MICCAI_ATEC23challenge
 
 ## Automated prediction of treatment effectiveness in ovarian cancer using histopathological images
 
