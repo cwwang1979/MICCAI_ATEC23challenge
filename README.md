@@ -45,8 +45,7 @@ Symposium on Biomedical Imaging (ISBI) 2014, Beijing, China.
 Chief, Department of Pathology, Tri-Service General Hospital, Taipei, Taiwan.
 Associate Professor, College of Biochemistry, National Defense Medical Center, Taipei, Taiwan.
 Director, Biobank, Tri-Service General Hospital and National Defense Medical Center
-- Dr. Yi-Jia Lin
-Attending Physician, Department of Pathology, Tri-Service General Hospital, Taipei, Taiwan.
+
 
 ## Challenge Publication and Prizes
 Top-ranked teams will be invited for SCI journal publications and awarded the prizes below. 
