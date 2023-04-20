@@ -53,7 +53,7 @@ Top-ranked teams will be invited for SCI journal publications and awarded the pr
 
 A joint challenge paper will be prepared and submitted to journals such as Medical Image Analysis or IEEE trans on Medical Imaging, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
 
-In addition, two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the TEOC challenge as follows. Top teams will be invited for paper submission to the arranged special issues.
+In addition, two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the challenge as follows. Top teams will be invited for paper submission to the arranged special issues.
 
 The participating teams may publish their own results separately after the challenge paper is published, **but they should cite the assigned papers listed bellows**.
 
@@ -68,7 +68,7 @@ https://doi.org/10.3390/cancers14071651
 https://doi.org/10.1002/ctm2.1162
 
 ### Special Issues and the Prizes
-Special Issues for the TEOC challenge:
+Special Issues for the challenge:
 1. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
 2. Diagnostics (JCR2021 IF= 3.992) "Special Issue "Deep Learning in Oncological Image Analysis"
 
