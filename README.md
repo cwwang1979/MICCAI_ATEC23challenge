@@ -67,48 +67,6 @@ https://doi.org/10.3390/cancers14071651
 - Wang et al. (2023) Ensemble biomarkers for guiding anti‐angiogenesis therapy for ovarian cancer using deep learning, Clinical and Translational Medicine, 13(1), e1162, 1-7
 https://doi.org/10.1002/ctm2.1162
 
-### BibTeX
-```
-@article{wang2022histopathological,
-  title={Histopathological whole slide image dataset for classification of treatment effectiveness to ovarian cancer},
-  author={Wang, Ching-Wei and Chang, Cheng-Chang and Khalil, Muhammad Adil and Lin, Yi-Jia and Liou, Yi-An and Hsu, Po-Chao and Lee, Yu-Ching and Wang, Chih-Hung and Chao, Tai-Kuang},
-  journal={Scientific Data},
-  volume={9},
-  number={1},
-  pages={25},
-  year={2022},
-  publisher={Nature Publishing Group UK London}
-}
-@article{wang2022weakly,
-  title={Weakly supervised deep learning for prediction of treatment effectiveness on ovarian cancer from histopathology images},
-  author={Wang, Ching-Wei and Chang, Cheng-Chang and Lee, Yu-Ching and Lin, Yi-Jia and Lo, Shih-Chang and Hsu, Po-Chao and Liou, Yi-An and Wang, Chih-Hung and Chao, Tai-Kuang},
-  journal={Computerized Medical Imaging and Graphics},
-  volume={99},
-  pages={102093},
-  year={2022},
-  publisher={Elsevier}
-}
-@article{wang2022weakly,
-  title={A weakly supervised deep learning method for guiding ovarian cancer treatment and identifying an effective biomarker},
-  author={Wang, Ching-Wei and Lee, Yu-Ching and Chang, Cheng-Chang and Lin, Yi-Jia and Liou, Yi-An and Hsu, Po-Chao and Chang, Chun-Chieh and Sai, Aung-Kyaw-Oo and Wang, Chih-Hung and Chao, Tai-Kuang},
-  journal={Cancers},
-  volume={14},
-  number={7},
-  pages={1651},
-  year={2022},
-  publisher={MDPI}
-}
-@article{wang2023ensemble,
-  title={Ensemble biomarkers for guiding anti-angiogenesis therapy for ovarian cancer using deep learning},
-  author={Wang, Ching-Wei and Lee, Yu-Ching and Lin, Yi-Jia and Chang, Chun-Chieh and Wang, Chih-Hung and Chao, Tai-Kuang and others},
-  journal={Clinical and Translational Medicine},
-  volume={13},
-  number={1},
-  year={2023},
-  publisher={Wiley-Blackwell}
-}
-```
-
 ### Special Issues and the Prizes
 Special Issues for the TEOC challenge:
 1. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
