@@ -27,10 +27,6 @@ A large whole section whole slide image (WSI) dataset, contains 288 De-identifie
 ### Testing Cohorts
 180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link will be released after submitting the [Registration Form](https://drive.google.com/file/d/1u4voqFVtPyhF6OMbmtUHh5JK37Aj_mRJ/view?usp=sharing).
 
-### Ethics Approval
-For both training and testing datasets, ethical approvals have been obtained from the research ethics committee of the Tri-Service
-General Hospital (TSGHIRB No.1–107–05–171 and No.B202005070).
-
 ## Organizers
 - Prof. Ching-Wei Wang
 Professor, Graduate Institute of Biomedical Engineering and Graduate Institute of Applied Science and Technology,
@@ -52,7 +48,7 @@ Top-ranked teams will be invited for SCI journal publications and awarded the pr
 
 A joint challenge paper will be prepared and submitted to journals such as Medical Image Analysis or IEEE trans on Medical Imaging, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
 
-In addition, two special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the challenge as follows. Top teams will be invited for paper submission to the arranged special issues.
+In addition, three special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the challenge as follows. Top teams will be invited for paper submission to the arranged special issues.
 
 The participating teams may publish their own results separately after the challenge paper is published, **but they should cite the assigned papers listed bellows**.
 
@@ -68,8 +64,9 @@ https://doi.org/10.1002/ctm2.1162
 
 ### Special Issues and the Prizes
 Special Issues for the challenge:
-1. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
-2. Diagnostics (JCR2021 IF= 3.992) "Special Issue "Deep Learning in Oncological Image Analysis"
+1. Discover Oncology (Springer Nature, IF: 4.667) Artificial Intelligence in Pathology and Cytology for Cancer Research 
+2. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
+3. Diagnostics (JCR2021 IF= 3.992) "Special Issue "Deep Learning in Oncological Image Analysis"
 
 Prizes (in total 22000 CHF)
 
