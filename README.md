@@ -64,9 +64,11 @@ https://doi.org/10.1002/ctm2.1162
 
 ### Special Issues and the Prizes
 Special Issues for the challenge:
-1. Discover Oncology (Springer Nature, IF: 4.667) Artificial Intelligence in Pathology and Cytology for Cancer Research 
+1. Discover Oncology (Springer Nature, IF: 4.667) Artificial Intelligence in Pathology and Cytology for Cancer Research (https://link.springer.com/collections/ddiebdeeci)
 2. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
+(https://www.mdpi.com/journal/cancers/special_issues/W4UO7BGI11)
 3. Diagnostics (JCR2021 IF= 3.992) "Special Issue "Deep Learning in Oncological Image Analysis"
+(https://www.mdpi.com/journal/diagnostics/special_issues/deep_learning_oncological_image)
 
 Prizes (in total 22000 CHF)
 
