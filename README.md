@@ -1,5 +1,5 @@
 # MICCAI_ATEC23challenge 
-ATEC23 is a MICCAI 2023 online satelite event, which means that participarts are not required to physically attend the conference but still able to join the challenge.
+ATEC23 is a MICCAI 2023 online satelite event, which means that participarts are not required to physically attend the conference but still able to join the challenge remotely.
 https://conferences.miccai.org/2023/en/online.asp
 
 ## Automated prediction of treatment effectiveness in ovarian cancer using histopathological images
