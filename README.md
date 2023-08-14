@@ -11,7 +11,7 @@ Ovarian cancer is the second most common cause of gynecologic cancer death in wo
 - Open registration : currently open
 - Training data release : available at [TCIA](https://doi.org/10.7937/tcia.985g-ey35) [1]
 - Testing data release : will be available after the participant submits the [Registration Form](https://drive.google.com/file/d/1u4voqFVtPyhF6OMbmtUHh5JK37Aj_mRJ/view?usp=sharing).
-- Deadline for submission : August 30, 2023
+- Deadline for submission : September 15th, 2023
 the files to submit include a treatment outcome prediction file in the csv format (example shown in the table bellow and the file is available in the [link](https://drive.google.com/file/d/1fvyuJbpg6PyWJfGZb3qsZwEN4zIqLkBc/view?usp=share_link)) and a four-page paper about the methods in word or LaTex (template available at the [link](https://drive.google.com/drive/folders/1fiAdITZqX1lpImrINIwDbs0EtzUfV6rN?usp=share_link)).
 
 | CoreID  | prediction (probability) | prediction(Binary [1:effective, 0: invalid] ) |
