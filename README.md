@@ -2,6 +2,8 @@
 ATEC23 is a MICCAI 2023 online satellite event, which means that participants are not required to physically attend the conference but still able to join the challenge remotely.
 https://conferences.miccai.org/2023/en/online.asp
 
+# MICCAI onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
+
 ## Automated prediction of treatment effectiveness in ovarian cancer using histopathological images
 
 ## Introduction
