@@ -3,7 +3,7 @@ ATEC23 is a MICCAI 2023 online satellite event, which means that participants ar
 https://conferences.miccai.org/2023/en/online.asp
 
 
-# ATEC23Challenge Results
+# ATEC23 Challenge Results
 | Organizers Baseline Model  | Network Name | Accuracy | Precision | Recall | F1-Score | F1-Score Rank |      |
 | :---                       |      :---   | :---:    |  :---:    | :---:  |  :---:    |    :---:      |:---: |
 | Wang et al. (2022)         | Wang's M1    | 0.761    |   0.791   | 0.946  |  0.862   |      2        |      |
