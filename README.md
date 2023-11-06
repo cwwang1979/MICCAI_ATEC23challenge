@@ -2,6 +2,25 @@
 ATEC23 is a MICCAI 2023 online satellite event, which means that participants are not required to physically attend the conference but still able to join the challenge remotely.
 https://conferences.miccai.org/2023/en/online.asp
 
+
+# ATEC23Challenge Results
+| Organizers Baseline Model  | Network Name | Accuracy | Precision | Recall | F1-Score | F1-Score Rank |      |
+| :---                       |      :---   | :---:    |  :---:    | :---:  |  :---:    |    :---:      |:---: |
+| Wang et al. (2022)         | Wang's M1    | 0.761    |   0.791   | 0.946  |  0.862   |      2        |      |
+| Wang et al. (2022)         | Wang's M2    | 0.718    |   0.781   | 0.893  |  0.833   |      3        |      |
+| Wang et al. (2022)         | Wang's M3    | 0.775    |   0.794   | 0.964  |  0.871   |      1        |      |
+| Coudray et al (2022)       | InceptionV3  | 0.575    |   0.760   | 0.667  |  0.710   |      4        |      |
+| Campanella et al. (2022)   | ClassicMIL   | 0.469    |   0.571   | 0.311  |  0.403   |     11        |      |
+| __Participant's Team__         | __Network Name__            | __Accuracy__ | __Precision__ | __Recall__ | __F1-Score__ | __F1-Score Rank__ | __Participant's F1-Score Rank__  |
+| FaizMedCv                  | WSINeXt                 | 0.600    |   0.618   | 0.786  |  0.692   |      5        |   1   |
+| AI FUTURE                  | Swin-Traansformer       | 0.572    |   0.616   | 0.670  |  0.642   |      6        |   2   |
+| UBC-AIM                    | cTransPath+ VarMIL      | 0.517    |   0.573   | 0.612  |  0.592   |      7        |   3   |
+| MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | 0.561    |   0.636   | 0.544  |  0.586   |      8        |   4   |
+| HaiLo                      | HistoResNet+ABMIL       | 0.550    |   0.641   | 0.485  |  0.552   |      9        |   5   |
+| NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      10       |   6   |
+| HaiLo                      | HIPT+ABMIL              | 0.344    |   0.333   | 0.146  |  0.203   |      12       |   7   |
+
+
 # MICCAI onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
 
 ## Automated prediction of treatment effectiveness in ovarian cancer using histopathological images
