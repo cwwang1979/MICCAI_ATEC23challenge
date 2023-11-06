@@ -12,7 +12,7 @@ Ovarian cancer is the second most common cause of gynecologic cancer death in wo
 ## Date
 - Open registration : currently open
 - Training data release : available at [TCIA](https://doi.org/10.7937/tcia.985g-ey35) [1]
-- Testing data release : available at [TMA Testing Set](https://drive.google.com/file/d/1u4voqFVtPyhF6OMbmtUHh5JK37Aj_mRJ/view?usp=sharing](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ)).
+- Testing data release : available at [TMA Testing Set](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ).
 - Deadline for submission : September 15th, 2023
 the files to submit include a treatment outcome prediction file in the csv format (example shown in the table bellow and the file is available in the [link](https://drive.google.com/file/d/1fvyuJbpg6PyWJfGZb3qsZwEN4zIqLkBc/view?usp=share_link)) and a four-page paper about the methods in word or LaTex (template available at the [link](https://drive.google.com/drive/folders/1fiAdITZqX1lpImrINIwDbs0EtzUfV6rN?usp=share_link)).
 
@@ -29,7 +29,7 @@ the files to submit include a treatment outcome prediction file in the csv forma
 A large whole section whole slide image (WSI) dataset, contains 288 De-identified hematoxylin and eosin (H&E) stained whole section slides with clinical information of HGSOC patients collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. The large training dataset has been accepted to be stored on The Cancer Imaging Archive (TCIA) platform, and the dataset presented here is available at [the training data link](https://doi.org/10.7937/tcia.985g-ey35) [1].
 
 ### Testing Cohorts
-180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link are available at the [TMA Testing Set](https://drive.google.com/file/d/1u4voqFVtPyhF6OMbmtUHh5JK37Aj_mRJ/view?usp=sharing](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ)).
+180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link are available at the [TMA Testing Set](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ).
 
 ## Organizers
 - Prof. Ching-Wei Wang
