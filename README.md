@@ -46,8 +46,8 @@ the files to submit include a treatment outcome prediction file in the csv forma
 ### Training Cohorts
 A large whole section whole slide image (WSI) dataset, contains 288 De-identified hematoxylin and eosin (H&E) stained whole section slides with clinical information of HGSOC patients collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. The large training dataset has been accepted to be stored on The Cancer Imaging Archive (TCIA) platform, and the dataset presented here is available at [the training data link](https://doi.org/10.7937/tcia.985g-ey35) [4].
 
-### Testing Cohorts
-180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link are available at the [TMA Testing Set](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ).
+### Testing Cohorts and Evaluation Software 
+180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link are available at the [TMA Testing Set](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ). The password for the reference labels are provided on the joint challenge paper currently in submission to MIA. 
 
 ## Organizers
 - Prof. Ching-Wei Wang
