@@ -88,7 +88,7 @@ In addition, three special Issues of the SCI-indexed journals with associated pr
 The participating teams may publish their own results separately after the challenge paper is published, **but they should cite the assigned papers listed bellows**.
 
 ### Assigned Papers
-- Wang et al. (in submission) 
+- Wang et al. (in submission) ATEC23 Challenge: automated prediction of treatment effectiveness in ovarian cancer using histopathological images
 - Wang et al. (2022) Histopathological whole slide image dataset for classification of treatment effectiveness to ovarian cancer, Scientific Data, 9(25), 1-5
 https://doi.org/10.1038/s41597-022-01127-6
 - Wang et al. (2022) Weakly Supervised Deep Learning for Prediction of Treatment Effectiveness on Ovarian Cancer from Histopathology Images, Computerized Medical Imaging and Graphics, 99.102093,1-26
