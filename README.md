@@ -2,6 +2,23 @@
 ATEC23 is a MICCAI 2023 online satellite event, which means that participants are not required to physically attend the conference but still able to join the challenge remotely.
 https://conferences.miccai.org/2023/en/online.asp
 
+# ATEC23 Challenge Results
+| Organizers Baseline Model      | Network Name | Accuracy | Precision | Recall | F1-Score | F1-Score Rank |      |
+| :---                           |      :---   | :---:    |  :---:    | :---:  |  :---:    |    :---:      |:---: |
+| Wang et al. (2022) [1]         | Wang's M1    | 0.761    |   0.791   | 0.946  |  0.862   |      2        |      |
+| Wang et al. (2022) [1]         | Wang's M2    | 0.718    |   0.781   | 0.893  |  0.833   |      3        |      |
+| Wang et al. (2022) [1]         | Wang's M3    | 0.775    |   0.794   | 0.964  |  0.871   |      1        |      |
+| Coudray et al (2022) [2]       | InceptionV3  | 0.575    |   0.760   | 0.667  |  0.710   |      4        |      |
+| Campanella et al. (2022) [3]   | ClassicMIL   | 0.469    |   0.571   | 0.311  |  0.403   |     11        |      |
+| __Participant's Team__     | __Network Name__        | __Accuracy__ | __Precision__ | __Recall__ | __F1-Score__ | __F1-Score Rank__ | __Participant's F1-Score Rank__  |
+| FaizMedCv                  | WSINeXt                 | 0.600    |   0.618   | 0.786  |  0.692   |      5        |   1   |
+| AI FUTURE                  | Swin-Transformer        | 0.572    |   0.616   | 0.670  |  0.642   |      6        |   2   |
+| UBC-AIM                    | cTransPath+ VarMIL      | 0.517    |   0.573   | 0.612  |  0.592   |      7        |   3   |
+| MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | 0.561    |   0.636   | 0.544  |  0.586   |      8        |   4   |
+| HaiLo                      | HistoResNet+ABMIL       | 0.550    |   0.641   | 0.485  |  0.552   |      9        |   5   |
+| NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      10       |   6   |
+| HaiLo                      | HIPT+ABMIL              | 0.344    |   0.333   | 0.146  |  0.203   |      12       |   7   |
+
 
 # MICCAI onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
 
@@ -27,7 +44,7 @@ the files to submit include a treatment outcome prediction file in the csv forma
 
 ## Datasets
 ### Training Cohorts
-A large whole section whole slide image (WSI) dataset, contains 288 De-identified hematoxylin and eosin (H&E) stained whole section slides with clinical information of HGSOC patients collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. The large training dataset has been accepted to be stored on The Cancer Imaging Archive (TCIA) platform, and the dataset presented here is available at [the training data link](https://doi.org/10.7937/tcia.985g-ey35) [1].
+A large whole section whole slide image (WSI) dataset, contains 288 De-identified hematoxylin and eosin (H&E) stained whole section slides with clinical information of HGSOC patients collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. The large training dataset has been accepted to be stored on The Cancer Imaging Archive (TCIA) platform, and the dataset presented here is available at [the training data link](https://doi.org/10.7937/tcia.985g-ey35) [4].
 
 ### Testing Cohorts
 180 tissue cores collected of HGSOC patients are collected from the tissue bank of the Tri-Service General Hospital and the National Defense Medical Center, Taipei, Taiwan. In order to test the model generalizability on unseen data, an independent and separate testing data set is provided for evaluation of models on not only sensitivity and specificity, but also on generalizability for practical usages. The data link are available at the [TMA Testing Set](https://drive.google.com/drive/folders/1WyHTxMo1qQ5FKF-CJVI_-_8j7StYklpJ).
@@ -118,5 +135,15 @@ m11023802@mail.ntust.edu.tw; nabilapuspita.firdi@gmail.com
 National Taiwan University of Science and Technology
 
 ## Reference
-[1] Wang et al. (2022) Histopathological whole slide image dataset for classification of treatment effectiveness to ovarian cancer, Scientific Data, 9(25), 1-5
+[1] Wang et al. (2022) Weakly Supervised Deep Learning for Prediction of Treatment Effectiveness on Ovarian Cancer from Histopathology Images, Computerized Medical Imaging and Graphics, 99.102093,1-26
+https://doi.org/10.1016/j.compmedimag.2022.102093
+
+[2] Coudray et al. (2018) Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning, Nature Medicine, 1559-1567, 24(10)
+https://doi.org/10.1038/s41591-018-0177-5
+
+[3] Campanella et al. (2019) Clinical-grade computational pathology using weakly supervised deep learning on whole slide images, Nature Medicine, 1301-1309, 25(8)
+https://doi.org/10.1038/s41591-019-0508-1
+
+[4] Wang et al. (2022) Histopathological whole slide image dataset for classification of treatment effectiveness to ovarian cancer, Scientific Data, 9(25), 1-5
 https://doi.org/10.1038/s41597-022-01127-6
+
