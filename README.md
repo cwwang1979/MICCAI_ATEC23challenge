@@ -56,7 +56,7 @@ A large whole section whole slide image (WSI) dataset, contains 288 De-identifie
 | FaizMedCv                  | WSINeXt                 | Tezpur University, Assam, India   | Link Unavailable |
 | AI FUTURE                  | Swin-Transformer        | AIFUTURE Lab, Beijing, China  | Link Unavailable |
 | UBC-AIM                    | cTransPath+ VarMIL      | University of British Columbia, Canada | Link Unavailable |
-| MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | Shenzen University, China  | Link Unavailable |
+| MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | Shenzen University, China  | [Link](https://drive.google.com/file/d/1Bu_3Q0mmzefCsPmk1fdwl1XY0oneSQyv/view?usp=drive_link)  |
 | HaiLo                      | HistoResNet+ABMIL and HIPT+ABMIL      | University of Leeds, UK  | [GitHub](https://github.com/scjjb/HIPT_ABMIL_ATEC23) |
 | NPU-SAIIP                  | ResNet+MIL              | Northwestern Polytechnical University, Shaanxi, China | [Link](https://drive.google.com/file/d/1AssBOJrzLU01MsAfEBDmmSR5IpZn4GmN/view?usp=sharing)  |
 
