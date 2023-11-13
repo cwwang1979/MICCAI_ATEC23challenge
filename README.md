@@ -15,9 +15,7 @@ https://conferences.miccai.org/2023/en/online.asp
 | AI FUTURE                  | Swin-Transformer        | 0.572    |   0.616   | 0.670  |  0.642   |      6        |   2   |
 | UBC-AIM                    | cTransPath+ VarMIL      | 0.517    |   0.573   | 0.612  |  0.592   |      7        |   3   |
 | MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | 0.561    |   0.636   | 0.544  |  0.586   |      8        |   4   |
-| HaiLo                      | HistoResNet+ABMIL       | 0.550    |   0.641   | 0.485  |  0.552   |      9        |   5   |
-| NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      10       |   6   |
-| HaiLo                      | HIPT+ABMIL              | 0.344    |   0.333   | 0.146  |  0.203   |      12       |   7   |
+| NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      10       |   5   |
 
 
 # MICCAI onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
@@ -57,7 +55,6 @@ A large whole section whole slide image (WSI) dataset, contains 288 De-identifie
 | AI FUTURE                  | Swin-Transformer        | AIFUTURE Lab, Beijing, China  | [Link](https://drive.google.com/file/d/1dRj2VmNIXmbAa6iQxB3paAjGANv22ms1/view?usp=drive_link) |
 | UBC-AIM                    | cTransPath+ VarMIL      | University of British Columbia, Canada | [Link](https://drive.google.com/file/d/1wHyh6ywyqLzItqHvuUsDH3ocO7Ozdqi3/view?usp=drive_link) |
 | MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | Shenzen University, China  | [Link](https://drive.google.com/file/d/1Bu_3Q0mmzefCsPmk1fdwl1XY0oneSQyv/view?usp=drive_link)  |
-| HaiLo                      | HistoResNet+ABMIL and HIPT+ABMIL      | University of Leeds, UK  | [GitHub](https://github.com/scjjb/HIPT_ABMIL_ATEC23) |
 | NPU-SAIIP                  | ResNet+MIL              | Northwestern Polytechnical University, Shaanxi, China | [Link](https://drive.google.com/file/d/1AssBOJrzLU01MsAfEBDmmSR5IpZn4GmN/view?usp=sharing)  |
 
 
