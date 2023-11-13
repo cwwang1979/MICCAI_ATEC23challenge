@@ -9,13 +9,13 @@ https://conferences.miccai.org/2023/en/online.asp
 | Wang et al. (2022) [1]         | Wang's M2    | 0.718    |   0.781   | 0.893  |  0.833   |      3        |      |
 | Wang et al. (2022) [1]         | Wang's M3    | 0.775    |   0.794   | 0.964  |  0.871   |      1        |      |
 | Coudray et al (2022) [2]       | InceptionV3  | 0.575    |   0.760   | 0.667  |  0.710   |      4        |      |
-| Campanella et al. (2022) [3]   | ClassicMIL   | 0.469    |   0.571   | 0.311  |  0.403   |     11        |      |
+| Campanella et al. (2022) [3]   | ClassicMIL   | 0.469    |   0.571   | 0.311  |  0.403   |     10        |      |
 | __Participant's Team__     | __Network Name__        | __Accuracy__ | __Precision__ | __Recall__ | __F1-Score__ | __F1-Score Rank__ | __Participant's F1-Score Rank__  |
 | FaizMedCv                  | WSINeXt                 | 0.600    |   0.618   | 0.786  |  0.692   |      5        |   1   |
 | AI FUTURE                  | Swin-Transformer        | 0.572    |   0.616   | 0.670  |  0.642   |      6        |   2   |
 | UBC-AIM                    | cTransPath+ VarMIL      | 0.517    |   0.573   | 0.612  |  0.592   |      7        |   3   |
 | MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | 0.561    |   0.636   | 0.544  |  0.586   |      8        |   4   |
-| NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      10       |   5   |
+| NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      9       |   5   |
 
 
 # MICCAI onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
