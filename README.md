@@ -1,8 +1,8 @@
-# MICCAI_ATEC23challenge 
-ATEC23 is a MICCAI 2023 online satellite event, which means that participants are not required to physically attend the conference but still able to join the challenge remotely.
-https://conferences.miccai.org/2023/en/online.asp
+## Automated prediction of treatment effectiveness in ovarian cancer using histopathological images
+## Introduction
+Ovarian cancer is the second most common cause of gynecologic cancer death in women around the world. Epithelial ovarian cancer (EOC) accounts for over 95% of ovarian malignancies. Most women with ovarian cancer are diagnosed in advanced stage, which accounts for the high mortality rate. EOC is classified into at least five distinct histopathological subtypes, including high-grade serous, low-grade serous, clear cell, endometrioid, and mucinous ovarian cancer. High-grade serous ovarian cancer (HGSOC) is the most common histologic subtype, accounting for more than 70% of EOCs. Despite the progress made during the last two decades in the surgery and chemotherapy of ovarian cancer, more than 70 % of advanced patients are with recurrent cancer and decease. Bevacizumab is a humanized monoclonal antibody, which blocks VEGF signaling in cancer, inhibits angiogenesis and causes tumor shrinkage, and has been recently approved by FDA as a monotherapy for advanced ovarian cancer in combination with chemotherapy. Considering the cost, potential toxicity, and finding that only a portion of patients will benefit from these drugs, the identification of new predictive method for the treatment of EOC remains an urgent unmet medical need. Recent studies have shown that the challenge of applying digital whole slide image (WSI) to predict post-treatment response may be solved using deep learning (DL) technologies. Over the past few years, interest in the use of DL based approaches for drug discovery and development has increased. In this challenge, two datasets are constructed, including a whole section slide dataset and an independent TMA slide dataset. To assess the generalizability of the model, the whole section slide dataset will be used for training and the second independent TMA slide dataset will used for testing the DL based approaches. This challenge aims to build an automatic precision oncology system for patient selection and guiding ovarian cancer treatment.
 
-# ATEC23 Challenge Results
+# ATEC23 Challenge Final Results in MICCAI 2023
 | Organizers Baseline Model      | Network Name | Accuracy | Precision | Recall | F1-Score | F1-Score Rank |      |
 | :---                           |      :---   | :---:    |  :---:    | :---:  |  :---:    |    :---:      |:---: |
 | Wang et al. (2022) [1]         | Wang's M1    | 0.761    |   0.791   | 0.946  |  0.862   |      2        |      |
@@ -17,13 +17,9 @@ https://conferences.miccai.org/2023/en/online.asp
 | MMaiLGA                    | ReMix+ABMIL/ReMix+DSMIL | 0.561    |   0.636   | 0.544  |  0.586   |      8        |   4   |
 | NPU-SAIIP                  | ResNet+MIL              | 0.528    |   0.725   | 0.282  |  0.406   |      9       |   5   |
 
-
-# MICCAI onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
-
-## Automated prediction of treatment effectiveness in ovarian cancer using histopathological images
-
-## Introduction
-Ovarian cancer is the second most common cause of gynecologic cancer death in women around the world. Epithelial ovarian cancer (EOC) accounts for over 95% of ovarian malignancies. Most women with ovarian cancer are diagnosed in advanced stage, which accounts for the high mortality rate. EOC is classified into at least five distinct histopathological subtypes, including high-grade serous, low-grade serous, clear cell, endometrioid, and mucinous ovarian cancer. High-grade serous ovarian cancer (HGSOC) is the most common histologic subtype, accounting for more than 70% of EOCs. Despite the progress made during the last two decades in the surgery and chemotherapy of ovarian cancer, more than 70 % of advanced patients are with recurrent cancer and decease. Bevacizumab is a humanized monoclonal antibody, which blocks VEGF signaling in cancer, inhibits angiogenesis and causes tumor shrinkage, and has been recently approved by FDA as a monotherapy for advanced ovarian cancer in combination with chemotherapy. Considering the cost, potential toxicity, and finding that only a portion of patients will benefit from these drugs, the identification of new predictive method for the treatment of EOC remains an urgent unmet medical need. Recent studies have shown that the challenge of applying digital whole slide image (WSI) to predict post-treatment response may be solved using deep learning (DL) technologies. Over the past few years, interest in the use of DL based approaches for drug discovery and development has increased. In this challenge, two datasets are constructed, including a whole section slide dataset and an independent TMA slide dataset. To assess the generalizability of the model, the whole section slide dataset will be used for training and the second independent TMA slide dataset will used for testing the DL based approaches. This challenge aims to build an automatic precision oncology system for patient selection and guiding ovarian cancer treatment.
+# MICCAI_ATEC23challenge 
+ATEC23 is held as a MICCAI 2023 online satellite event. https://conferences.miccai.org/2023/en/online.asp
+Onsite workshop- level 1 meeting room 12, 9AM, Oct 12th, Vancouver
 
 ## Date
 - Open registration : currently open
