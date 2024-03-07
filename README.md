@@ -71,7 +71,7 @@ Associate Professor, College of Biochemistry, National Defense Medical Center, T
 Director, Biobank, Tri-Service General Hospital and National Defense Medical Center
 
 
-## Challenge Publication and Prizes
+## Challenge Publication 
 
 A joint challenge paper will be prepared and submitted to journals such as Medical Image Analysis or IEEE trans on Medical Imaging, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
 
