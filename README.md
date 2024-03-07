@@ -88,7 +88,7 @@ https://doi.org/10.3390/cancers14071651
 - Wang et al. (2023) Ensemble biomarkers for guiding anti‐angiogenesis therapy for ovarian cancer using deep learning, Clinical and Translational Medicine, 13(1), e1162, 1-7
 https://doi.org/10.1002/ctm2.1162
 
-### Special Issues and the Prizes
+### Special Issues
 Special Issues for the challenge:
 1. Discover Oncology (Springer Nature, IF: 4.667) Artificial Intelligence in Pathology and Cytology for Cancer Research (https://link.springer.com/collections/ddiebdeeci)
 
