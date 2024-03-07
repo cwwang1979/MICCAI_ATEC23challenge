@@ -76,8 +76,6 @@ Top-ranked teams will be invited for SCI journal publications and awarded the pr
 
 A joint challenge paper will be prepared and submitted to journals such as Medical Image Analysis or IEEE trans on Medical Imaging, and two members from the top 10 participating teams from the leaderboards will be invited to contribute to the joint challenge paper as co-authors. 
 
-In addition, three special Issues of the SCI-indexed journals with associated prizes (22,000 CHF in total) have been arranged for the challenge as follows. Top teams will be invited for paper submission to the arranged special issues.
-
 The participating teams may publish their own results separately after the challenge paper is published, **but they should cite the assigned papers listed bellows**.
 
 ### Assigned Papers
@@ -94,36 +92,6 @@ https://doi.org/10.1002/ctm2.1162
 ### Special Issues and the Prizes
 Special Issues for the challenge:
 1. Discover Oncology (Springer Nature, IF: 4.667) Artificial Intelligence in Pathology and Cytology for Cancer Research (https://link.springer.com/collections/ddiebdeeci)
-2. Cancers (JCR 2021 IF = 6.575) Special Issue "Computational Pathology for Breast Cancer and Gynecologic Cancer"
-(https://www.mdpi.com/journal/cancers/special_issues/W4UO7BGI11)
-3. Diagnostics (JCR2021 IF= 3.992) "Special Issue "Deep Learning in Oncological Image Analysis"
-(https://www.mdpi.com/journal/diagnostics/special_issues/deep_learning_oncological_image)
-
-Prizes (in total 22000 CHF)
-
-- 1st place, 2900 CHF (Swiss Francs) / 100% wavier Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 2nd place, 1450 CHF (Swiss Francs) / 50% wavier Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 3rd place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 4th place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 5th place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 6th place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 7th place, 1450 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Cancers (JCR 2021 IF = 6.575)
-- 8th place, 1300 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 9th place, 1300 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 10th place, 1300 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 11th place, 1300 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 12th place, 1300 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 13th place, 1300 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 14th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 15th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 16th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 17th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 18th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 19th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 20th place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 21st place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 22nd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
-- 23rd place, 260 CHF (Swiss Francs) Voucher and invited for publication in the special issue of Diagnostics (JCR2021 IF= 3.992)
 
 ## License
 The challenge materials are released under a creative commons license, which allows for personal and research use only. For a commercial license please contact Prof Ching-Wei Wang. You can view a license summary here:  
